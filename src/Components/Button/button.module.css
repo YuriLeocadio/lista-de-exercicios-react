@@ -1,0 +1,15 @@
+.blue {
+  background-color: blue;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.visible{
+    color: #FFF;
+}
+
+.hidden{
+    color: transparent;
+}
