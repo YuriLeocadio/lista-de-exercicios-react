@@ -1,0 +1,13 @@
+.thumbnail-image {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.enlarged-image {
+  display: block;
+  width: 400px;
+  margin: 20px auto;
+  cursor: pointer;
+}
